@@ -1,4 +1,3 @@
-from tkinter import YView
 import numpy as np
 
 def egauss(A, b):
