@@ -25,4 +25,3 @@ def qrgivens(A):
             Q[:, indices] = Q[:, indices] @ rot.T
 
     return Q, R
-
