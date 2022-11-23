@@ -35,4 +35,4 @@ def test_sol_trsupcol():
         np.zeros(n), A @ x - b
     ), "Los vectores no coinciden"
 
-test_sol_trsupcol()
+# test_sol_trsupcol()
